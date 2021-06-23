@@ -1,0 +1,162 @@
+[
+{
+"address": {
+    "street": "Beertsterweg",
+    "housenumber": "1D",
+    "postalcode": "9672 BE",
+    "city": "Amsterdam",
+    "geoLocation": {
+        "lat": "53.144112",
+        "lng": "7.045933"
+    }
+},
+"distance": 0,
+"openingHours": [
+    {
+        "dayOfWeek": 2,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "21:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 3,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "21:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 4,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "21:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 5,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 6,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 7,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 1,
+        "hours": [
+            {
+                "hourFrom": "12:00",
+                "hourTo": "18:00"
+            }
+        ]
+    }
+],
+"functionality": "Geldautomaat",
+"type": "GELDMAAT"
+},
+{
+"address": {
+    "street": "IJburglaan",
+    "housenumber": "719",
+    "postalcode": "1087 BS",
+    "city": "Amsterdam",
+    "geoLocation": {
+        "lat": "52.35804",
+        "lng": "4.9906"
+    }
+},
+"distance": 0,
+"openingHours": [
+    {
+        "dayOfWeek": 2,
+        "hours": [
+            {
+                "hourFrom": "07:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 3,
+        "hours": [
+            {
+                "hourFrom": "07:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 4,
+        "hours": [
+            {
+                "hourFrom": "07:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 5,
+        "hours": [
+            {
+                "hourFrom": "07:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 6,
+        "hours": [
+            {
+                "hourFrom": "07:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 7,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "22:00"
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 1,
+        "hours": [
+            {
+                "hourFrom": "08:00",
+                "hourTo": "22:00"
+            }
+        ]
+    }
+],
+"functionality": "Geldautomaat",
+"type": "GELDMAAT"
+}
+]

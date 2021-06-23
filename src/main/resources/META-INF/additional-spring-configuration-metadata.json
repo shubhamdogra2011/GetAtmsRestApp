@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "baseuri",
+    "type": "java.lang.String",
+    "description": "GET endpoint to ING api for retrieving list of atms"
+  },
+  {
+    "name": "test.mockalljsonfile",
+    "type": "java.lang.String",
+    "description": "A mock list(in json file format) of atms for unit testing"
+  },
+  {
+    "name": "test.mockcityjsonfile",
+    "type": "java.lang.String",
+    "description": "A mock list(in json file format) of atms in a specific city for unit testing"
+  }
+]}
